@@ -1,0 +1,18 @@
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Helper\bin\Debug\Management_Helper.dll
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Helper\bin\Debug\Management_Helper.pdb
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Helper\obj\Debug\Management_Helper.csprojResolveAssemblyReference.cache
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Helper\obj\Debug\Management_Helper.dll
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Helper\obj\Debug\Management_Helper.pdb
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Helper\bin\Debug\Management_Helper.dll.config
+E:\百词斩项目\百词斩\Management_Helper\bin\Debug\Management_Helper.dll.config
+E:\百词斩项目\百词斩\Management_Helper\bin\Debug\Management_Helper.dll
+E:\百词斩项目\百词斩\Management_Helper\bin\Debug\Management_Helper.pdb
+E:\百词斩项目\百词斩\Management_Helper\obj\Debug\Management_Helper.csprojResolveAssemblyReference.cache
+E:\百词斩项目\百词斩\Management_Helper\obj\Debug\Management_Helper.dll
+E:\百词斩项目\百词斩\Management_Helper\obj\Debug\Management_Helper.pdb
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Helper\bin\Debug\Management_Helper.dll.config
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Helper\bin\Debug\Management_Helper.dll
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Helper\bin\Debug\Management_Helper.pdb
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Helper\obj\Debug\Management_Helper.csprojResolveAssemblyReference.cache
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Helper\obj\Debug\Management_Helper.dll
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Helper\obj\Debug\Management_Helper.pdb

@@ -1,0 +1,127 @@
+﻿
+
+
+.color_fff {
+	color: #ffffff;
+}
+.bg_color_fff {
+	background-color: #ffffff;
+}
+.color_666 {
+	color: #666666;
+}
+.bg_color_666 {
+	background-color: #666666;
+}
+.color_999 {
+	color:black;
+}
+.color_9b9b9b {
+    color: #9b9b9b;
+}
+.bg_color_999 {
+	background-color: #999999;
+}
+.color_3bc3fd {
+	color: #3bc3fd;
+}
+.bg_color_3bc3fd {
+	background-color: #3bc3fd;
+}
+.color_30b4ec {
+	color: #30b4ec;
+}
+.bg_color_30b4ec {
+	background-color: #30b4ec;
+}
+.color_c1ecff {
+	color: #c1ecff;
+}
+.bg_color_c1ecff {
+	background-color: #c1ecff;
+}
+.color_afe7ff {
+	color: #afe7ff;
+}
+.bg_color_afe7ff {
+	background-color: #afe7ff;
+}
+.color_d8d8d8 {
+	color: #d8d8d8;
+}
+.bg_color_d8d8d8 {
+	background-color: #d8d8d8;
+}
+.color_f0f0f0 {
+	color: #f0f0f0;
+}
+.bg_color_f0f0f0 {
+	background-color: #f0f0f0;
+}
+.color_3b414f {
+	color: #3b414f;
+}
+.bg_color_3b414f {
+	background-color: #3b414f;
+}
+.color_5d5d5d {
+	color: #5d5d5d;
+}
+.bg_color_5d5d5d {
+	background-color: #5d5d5d;
+}
+.bg_color_5eca59 {
+    background-color: #5eca59;
+}
+
+
+.bg_img_tv {
+	background-image: url("../images/footer-ico-1.png");
+}
+.bg_img_wb {
+	background-image: url("../images/footer-ico-2.png");
+}
+.bg_img_qq {
+	background-image: url("../images/footer-ico-3.png");
+}
+.bg_img_tc {
+	background-image: url("../images/footer-ico-4.png");
+}
+.bg_img_oval {
+    background-image: url("../images/oval.png");
+}
+.bg_img_right {
+    background-image: url("../images/right.png");
+}
+.bg_img_down {
+    background-image: url("../images/down.png");
+}
+
+
+
+.font_s20{
+    font-size: 20px;
+}
+.font_s14{
+    font-size:14px;
+}
+.font_s12{
+    font-size:12px;
+}
+.font_s18{
+    font-size: 18px;
+}
+.font_s16 {
+    font-size: 16px;
+}
+
+
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.clear {
+    clear: both;
+}

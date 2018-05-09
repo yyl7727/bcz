@@ -1,0 +1,249 @@
+/** {
+	transition: all 2s ease;
+}*/
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #f4f4f4;
+	min-width: 900px;
+	/*height: 100%;*/
+	overflow-x: hidden;
+	color: #808080;
+	font-family:"Hiragino Sans GB", "Microsoft YaHei","Helvetica Neue",sans-serif;
+	transition: transform ease-in-out 0.5s;
+	-webkit-transition: -webkit-transform ease-in-out 0.5s;
+	-moz-transition: -moz-transform ease-in-out 0.5s;
+	-ms-transition: -ms-transform ease-in-out 0.5s;
+
+}
+
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: #818181;
+}
+
+
+/*for nav-bar begin*/
+nav {
+	width: 100%;
+	/*max-height: 200px;*/
+}
+
+
+nav.bcz-nav {
+	background-color: #2EA3FD;
+	color: white;
+	height: 55px;
+	min-height: 55px;
+	padding: 1% 0;
+	position: relative;
+	vertical-align: text-bottom;
+	z-index: 3000;
+}
+
+.bcz-nav-wrapper {
+	/*width: 63%;*/
+	width: 900px;
+	min-width: 900px;
+	position: absolute;
+	bottom: 10%;
+	left: 50%;
+	top: 50%;
+	-webkit-transform: translate(-50%,-50%);
+	-moz-transform: translate(-50%,-50%);
+	-ms-transform: translate(-50%,-50%);
+	transform: translate(-50%,-50%);
+	
+}
+
+.bcz-nav-left {
+	width: 22.2%;
+	float: left;
+}
+
+.bcz-nav-logo {
+	position: relative;
+	top: -9px;
+}
+
+.bcz-nav-logo img {
+	width: 13.3%;
+	height: auto;
+	min-width: 120px;
+}
+
+
+.bcz-nav-right  {
+	margin-left: 200px;
+	text-align: right;
+}
+
+.bcz-nav-right li {
+	display: inline-block;
+	padding-left: 24px;
+	padding-right: 24px;
+	vertical-align: center;
+}
+
+.bcz-nav-right li:last-child {
+	padding-right: 0px;
+}
+
+.bcz-nav-right a {
+	text-decoration: none;
+	color: white;
+	font-size: 13px;
+}
+
+
+
+/*for a-bar end*/
+
+
+
+/*for banner start*/
+.bcz-banner {
+	width: 900px;
+	margin: 0 auto 70px auto;
+	max-height: 385px;
+}
+
+.carousel-indicators.bcz-ci li {
+	border: none;
+	width: 7px;
+	height: 7px;
+	background-color: lightblue;
+}
+
+.carousel-indicators.bcz-ci li.active {
+	transform: scale(1.25, 1.25);
+	-webkit-transform: scale(1.25, 1.25);
+	-moz-transform: scale(1.25, 1.25);
+	transform: scale(1.25, 1.25);
+	margin: 1px;
+	background-color: skyblue;
+}
+/*for banner end*/
+
+.bcz-section {
+	display: inline-block;
+	overflow: hidden;
+	border-radius: 3px;
+	float: left;
+}
+
+/*for pager start*/
+.bcz-pager {
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: 55px;
+}
+
+.bcz-pager ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+.bcz-pager li {
+	display: inline-block;
+	
+}
+
+.bcz-pager a {
+	display: inline-block;
+	width: 32.5px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+	/*padding-top: 5px;*/
+	border: 1px solid transparent;
+	text-decoration: none;
+	color: #808080;
+}
+
+.bcz-pager a.highlighted {
+	border: 1px solid #2e9af4;
+	color: #2e9af4;
+}
+
+.bcz-pager li:last-child a {
+	width: 75px;
+}
+
+.bcz-pager a:hover {
+	background-color: #2e9af4;
+	color: white;
+}
+
+/*for pager end*/
+
+
+/*for footer start*/
+
+/*for footer end*/
+
+
+.bcz-table td {
+	width: 25%;
+	text-align: center;
+	padding: 12.5px 0;
+	font-size: 14px;
+	color: #818181;
+}
+
+.bcz-table td:first-child {
+	
+	text-align: left;
+}
+
+.bcz-table a {
+	text-decoration: none;
+	color: #3b414f;
+}
+
+.bcz-table  a:hover {
+	color: #2e9cf6;
+}
+	
+
+.bcz-table td:last-child {
+	text-align: right;
+}
+
+
+.bcz-table tr {
+	margin-bottom: 20px;
+	height: 58px;
+}
+
+
+
+
+
+
+
+
+
+/* CSS Clear Hack: apply this to the containing element.
+	http://css-tricks.com/snippets/css/clear-fix/
+*/
+.group:before,
+.group:after {
+	content:"";
+	display:table;
+}
+.group:after {
+	clear:both;
+}
+.group {
+	zoom:1; /* For IE 6/7 (trigger hasLayout) */
+}

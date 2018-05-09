@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E014B5C3-6D32-4FB3-9D49-F0C66199D75B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Management</RootNamespace>
+    <AssemblyName>Management</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dc.Designer.cs">
+      <DependentUpon>dc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DCBType_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DCBType_Add.Designer.cs">
+      <DependentUpon>DCBType_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DCB_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DCB_Add.Designer.cs">
+      <DependentUpon>DCB_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DC_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DC_Add.Designer.cs">
+      <DependentUpon>DC_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Backup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Backup.Designer.cs">
+      <DependentUpon>Backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helper.cs" />
+    <Compile Include="Lecturerpwd_Alter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lecturerpwd_Alter.Designer.cs">
+      <DependentUpon>Lecturerpwd_Alter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lecturer_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lecturer_Add.Designer.cs">
+      <DependentUpon>Lecturer_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lecturer_Alter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lecturer_Alter.Designer.cs">
+      <DependentUpon>Lecturer_Alter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lecture_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lecture_Management.Designer.cs">
+      <DependentUpon>Lecture_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFrm.Designer.cs">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFrm.Designer.cs">
+      <DependentUpon>MainFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Add.Designer.cs">
+      <DependentUpon>User_Add.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="dc.resx">
+      <DependentUpon>dc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DCBType_Add.resx">
+      <DependentUpon>DCBType_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DCB_Add.resx">
+      <DependentUpon>DCB_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DC_Add.resx">
+      <DependentUpon>DC_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Backup.resx">
+      <DependentUpon>Backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lecturerpwd_Alter.resx">
+      <DependentUpon>Lecturerpwd_Alter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lecturer_Add.resx">
+      <DependentUpon>Lecturer_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lecturer_Alter.resx">
+      <DependentUpon>Lecturer_Alter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lecture_Management.resx">
+      <DependentUpon>Lecture_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginFrm.resx">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFrm.resx">
+      <DependentUpon>MainFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="User_Add.resx">
+      <DependentUpon>User_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Management_Bll\Management_Bll.csproj">
+      <Project>{3f3b5305-8de0-4c43-a5e8-dd3538635769}</Project>
+      <Name>Management_Bll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Management_Dal\Management_Dal.csproj">
+      <Project>{36B05F3B-55CB-42BB-830B-EF29DE26AEE4}</Project>
+      <Name>Management_Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Management_Helper\Management_Helper.csproj">
+      <Project>{3eab4f93-0537-48ec-8ddc-ada056c1b0f4}</Project>
+      <Name>Management_Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Management_Model\Management_Model.csproj">
+      <Project>{A415C8E7-E4D5-4F5B-A0AC-386669D72081}</Project>
+      <Name>Management_Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

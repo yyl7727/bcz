@@ -1,0 +1,254 @@
+﻿/*reset*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+input {
+    -webkit-appearance: none;
+}
+body{
+    width: 100%;
+    min-height: 720px;
+    font-family: 'arial','Microsoft Yahei','寰蒋闆呴粦', 'Hiragino Sans GB', 'Microsoft Sans Serif','SimSun','瀹嬩綋';
+    font-size: 12px;
+
+}
+div{
+    border: none;
+}
+form{
+    padding: 0px;
+    margin: 0px;
+}
+body,ul,li,ol,a,a:hover,p{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+input,button,select,textarea{ outline:none;}
+article,section,aside{
+    width: 100%;
+}
+img{
+    border: none;
+}
+/*base*/
+.bg{
+    width: 100%;
+}
+.container{
+    width: 1160px;
+    margin: 0px auto;
+}
+.pointer{
+    cursor: pointer;
+}
+.default{
+    cursor: default;
+}
+.right{
+    float: right;
+}
+.left{
+    float:left;
+}
+.border_all{
+    border: 1px #eaeaea solid;
+}
+.border_bottom{
+    border-bottom:1px #eaeaea solid;
+}
+.border_top{
+    border-top:1px #eaeaea solid;
+}
+.inline_block{
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+}
+.display_none{
+    display: none;
+}
+
+.gradient{
+    background-image: -moz-linear-gradient(90deg, rgba(1, 1, 1, 0.7) 0%, rgba(1, 1, 1, 0) 40%);
+    background-image: -webkit-linear-gradient(90deg, rgba(1, 1, 1, 0.7) 0%, rgba(1, 1, 1, 0) 40%);
+    background-image: -ms-linear-gradient(90deg, rgba(1, 1, 1, 0.7) 0%, rgba(1, 1, 1, 0) 40%);
+    text-align: center;
+}
+.blue_a{
+    color: #3bc3fd;
+}
+.gray6_a{
+    color: #666666;
+}
+.mouse_normal{
+    color: #3bc3fd;
+    border: 1px #3bc3fd solid;
+}
+.mouse_hover{
+    background:#3bc3fd;
+    color: #ffffff;
+    border: 1px #ffffff solid;
+}
+/*font*/
+.font_blue{
+    color:#3bc3fd;
+}
+.font_gray3{
+    color:#333333;
+}
+.font_gray6{
+    color:#666666;
+}
+.font_gray9{
+    color:#999999;
+}
+.font_white{
+    color:#ffffff;
+}
+.font_white1{
+    color:#ececec;
+}
+.font_size1{
+    font-size: 12px;
+}
+.font_size2{
+    font-size: 14px;
+}
+.font_size3{
+    font-size: 16px;
+}
+.font_size4{
+    font-size: 18px;
+}
+.font_size5{
+    font-size: 20px;
+}
+.font_size6{
+    font-size: 22px;
+}
+.font_size7{
+    font-size: 24px;
+}
+.font_size8{
+    font-size: 26px;
+}
+.font_size9{
+    font-size: 28px;
+}
+.font_size0{
+    font-size: 30px;
+}
+.font_bold{
+    font-weight: bold;
+}
+.font_opacity{
+    opacity: 0.7;
+}
+
+
+/*domain_size*/
+.domain_size1{
+    position: relative;
+    width: 116px;
+    height: 65px;
+    overflow: hidden;
+    border-radius: 4px;
+    box-shadow: 0px 2px 3px 0px rgba(1,1,1,0.039);
+}
+.domain_size2{
+    position: relative;
+    width: 190px;
+    height: 122px;
+    overflow: hidden;
+}
+.domain_size3{
+    position: relative;
+    width: 190px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 4px;
+    box-shadow: 0px 2px 3px 0px rgba(1,1,1,0.039);
+}
+.domain_size4{
+    position: relative;
+    width: 310px;
+    height: 203px;
+    overflow: hidden;
+    border-radius: 4px;
+    box-shadow: 0px 2px 3px 0px rgba(1,1,1,0.039);
+}
+.domain_size5{
+    position: relative;
+    width: 820px;
+    height: 560px;
+    overflow: hidden;
+    border-radius: 4px;
+   box-shadow: 0px 2px 3px 0px rgba(1,1,1,0.039);
+}
+.domain_size6{
+    position: relative;
+    width: 310px;
+    height: 66px;
+    overflow: hidden;
+    border-radius: 4px;
+    box-shadow: 0px 2px 3px 0px rgba(1,1,1,0.039);
+}
+.domain_size7{
+    position: relative;
+    overflow: hidden;
+    border-radius: 4px;
+    box-shadow: 0px 2px 3px 0px rgba(1,1,1,0.039);
+} /*鏂板*/
+.domain_size8{
+    position: relative;
+    overflow: hidden;
+    border-radius: 4px 4px 0px 0px;
+    box-shadow: 0px 2px 3px 0px rgba(1,1,1,0.039);
+} /*鏂板*/
+.domain_size9{
+    position: relative;
+    width: 190px;
+    height: 204px;
+    overflow: hidden;
+    border-radius: 4px;
+    box-shadow: 0px 2px 2px 0px rgba(1,1,1,0.09);
+} /*鏂板*/
+.domain_size0{
+    width: 296px;
+    height: 323px;
+    overflow: hidden;
+    border-radius: 4px 4px 4px 4px;
+    position: relative;
+}
+.mask_1{
+    opacity: 0.6;
+    background: #333333;
+    position: absolute;
+    top:0px;
+    left:0px;
+}
+
+/*icon*/
+.icon_1{
+     display: inline-block;
+     width: 40px;
+     height: 40px;
+     border-radius: 20px;
+     overflow: hidden;
+}
+.icon_2{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    border-radius: 34px;
+    overflow: hidden;
+}
+.icon_3{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    overflow: hidden;
+}/*鏂板*/

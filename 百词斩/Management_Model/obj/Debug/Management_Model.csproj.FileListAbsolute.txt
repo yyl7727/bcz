@@ -1,0 +1,19 @@
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Model\bin\Debug\Management_Model.dll
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Model\bin\Debug\Management_Model.pdb
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Model\obj\Debug\Management_Model.csprojResolveAssemblyReference.cache
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Model\obj\Debug\Management_Model.dll
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Model\obj\Debug\Management_Model.pdb
+E:\百词斩项目\百词斩\Management_Model\bin\Debug\Management_Model.dll
+E:\百词斩项目\百词斩\Management_Model\bin\Debug\Management_Model.pdb
+E:\百词斩项目\百词斩\Management_Model\obj\Debug\Management_Model.dll
+E:\百词斩项目\百词斩\Management_Model\obj\Debug\Management_Model.pdb
+C:\Users\ldy\Desktop\百词斩\Management_Model\bin\Debug\Management_Model.dll
+C:\Users\ldy\Desktop\百词斩\Management_Model\bin\Debug\Management_Model.pdb
+C:\Users\ldy\Desktop\百词斩\Management_Model\obj\Debug\Management_Model.csprojResolveAssemblyReference.cache
+C:\Users\ldy\Desktop\百词斩\Management_Model\obj\Debug\Management_Model.dll
+C:\Users\ldy\Desktop\百词斩\Management_Model\obj\Debug\Management_Model.pdb
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Model\bin\Debug\Management_Model.dll
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Model\bin\Debug\Management_Model.pdb
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Model\obj\Debug\Management_Model.csprojResolveAssemblyReference.cache
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Model\obj\Debug\Management_Model.dll
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Model\obj\Debug\Management_Model.pdb

@@ -1,0 +1,44 @@
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Bll\bin\Debug\Management_Bll.dll
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Bll\bin\Debug\Management_Bll.pdb
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Bll\bin\Debug\Management_Dal.dll
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Bll\bin\Debug\Management_Model.dll
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Bll\bin\Debug\Management_Helper.dll
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Bll\bin\Debug\Management_Dal.pdb
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Bll\bin\Debug\Management_Model.pdb
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Bll\bin\Debug\Management_Helper.pdb
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Bll\obj\Debug\Management_Bll.csprojResolveAssemblyReference.cache
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Bll\obj\Debug\Management_Bll.dll
+E:\百词斩项目\后台管理\Back-Stage Management\Management_Bll\obj\Debug\Management_Bll.pdb
+E:\百词斩项目\百词斩\Management_Bll\bin\Debug\Management_Bll.dll
+E:\百词斩项目\百词斩\Management_Bll\bin\Debug\Management_Bll.pdb
+E:\百词斩项目\百词斩\Management_Bll\bin\Debug\Management_Dal.dll
+E:\百词斩项目\百词斩\Management_Bll\bin\Debug\Management_Model.dll
+E:\百词斩项目\百词斩\Management_Bll\bin\Debug\Management_Helper.dll
+E:\百词斩项目\百词斩\Management_Bll\bin\Debug\Management_Dal.pdb
+E:\百词斩项目\百词斩\Management_Bll\bin\Debug\Management_Model.pdb
+E:\百词斩项目\百词斩\Management_Bll\bin\Debug\Management_Helper.pdb
+E:\百词斩项目\百词斩\Management_Bll\obj\Debug\Management_Bll.csprojResolveAssemblyReference.cache
+E:\百词斩项目\百词斩\Management_Bll\obj\Debug\Management_Bll.dll
+E:\百词斩项目\百词斩\Management_Bll\obj\Debug\Management_Bll.pdb
+C:\Users\ldy\Desktop\百词斩\Management_Bll\bin\Debug\Management_Bll.dll
+C:\Users\ldy\Desktop\百词斩\Management_Bll\bin\Debug\Management_Bll.pdb
+C:\Users\ldy\Desktop\百词斩\Management_Bll\bin\Debug\Management_Dal.dll
+C:\Users\ldy\Desktop\百词斩\Management_Bll\bin\Debug\Management_Model.dll
+C:\Users\ldy\Desktop\百词斩\Management_Bll\bin\Debug\Management_Helper.dll
+C:\Users\ldy\Desktop\百词斩\Management_Bll\bin\Debug\Management_Dal.pdb
+C:\Users\ldy\Desktop\百词斩\Management_Bll\bin\Debug\Management_Model.pdb
+C:\Users\ldy\Desktop\百词斩\Management_Bll\bin\Debug\Management_Helper.pdb
+C:\Users\ldy\Desktop\百词斩\Management_Bll\obj\Debug\Management_Bll.csprojResolveAssemblyReference.cache
+C:\Users\ldy\Desktop\百词斩\Management_Bll\obj\Debug\Management_Bll.dll
+C:\Users\ldy\Desktop\百词斩\Management_Bll\obj\Debug\Management_Bll.pdb
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Bll\bin\Debug\Management_Bll.dll
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Bll\bin\Debug\Management_Bll.pdb
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Bll\bin\Debug\Management_Dal.dll
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Bll\bin\Debug\Management_Model.dll
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Bll\bin\Debug\Management_Helper.dll
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Bll\bin\Debug\Management_Dal.pdb
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Bll\bin\Debug\Management_Model.pdb
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Bll\bin\Debug\Management_Helper.pdb
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Bll\obj\Debug\Management_Bll.csprojResolveAssemblyReference.cache
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Bll\obj\Debug\Management_Bll.dll
+F:\C#\叶玉龙李丹玉百词斩\百词斩\Management_Bll\obj\Debug\Management_Bll.pdb

@@ -1,0 +1,114 @@
+E:\百词斩项目\后台管理\Back-Stage Management\Management\bin\Debug\Management.exe.config
+E:\百词斩项目\后台管理\Back-Stage Management\Management\bin\Debug\Management.exe
+E:\百词斩项目\后台管理\Back-Stage Management\Management\bin\Debug\Management.pdb
+E:\百词斩项目\后台管理\Back-Stage Management\Management\bin\Debug\Management_Helper.dll
+E:\百词斩项目\后台管理\Back-Stage Management\Management\bin\Debug\Management_Helper.pdb
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management_UI.csprojResolveAssemblyReference.cache
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management.DCB_Add.resources
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management.DC_Add.resources
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management.Properties.Resources.resources
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management_UI.csproj.GenerateResource.Cache
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management.exe
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management.pdb
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management.Backup.resources
+E:\百词斩项目\后台管理\Back-Stage Management\Management\bin\Debug\Management_Bll.dll
+E:\百词斩项目\后台管理\Back-Stage Management\Management\bin\Debug\Management_Model.dll
+E:\百词斩项目\后台管理\Back-Stage Management\Management\bin\Debug\Management_Dal.dll
+E:\百词斩项目\后台管理\Back-Stage Management\Management\bin\Debug\Management_Bll.pdb
+E:\百词斩项目\后台管理\Back-Stage Management\Management\bin\Debug\Management_Model.pdb
+E:\百词斩项目\后台管理\Back-Stage Management\Management\bin\Debug\Management_Dal.pdb
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management.User_Add.resources
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management.LoginFrm.resources
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management.MainFrm.resources
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management.Lecturer_Add.resources
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management.Lecture_Management.resources
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management.Lecturer_Alter.resources
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management.Lecturerpwd_Alter.resources
+E:\百词斩项目\后台管理\Back-Stage Management\Management\obj\Debug\Management.DCBType_Add.resources
+E:\百词斩项目\百词斩\Management\bin\Debug\Management.exe.config
+E:\百词斩项目\百词斩\Management\obj\Debug\Management.exe
+E:\百词斩项目\百词斩\Management\obj\Debug\Management.pdb
+E:\百词斩项目\后台\Management\bin\Debug\Management.exe.config
+E:\百词斩项目\后台\Management\obj\Debug\Management.exe
+E:\百词斩项目\后台\Management\obj\Debug\Management.pdb
+E:\百词斩项目\后台\Management\bin\Debug\Management_Bll.dll
+E:\百词斩项目\后台\Management\bin\Debug\Management_Dal.dll
+E:\百词斩项目\后台\Management\bin\Debug\Management_Helper.dll
+E:\百词斩项目\后台\Management\bin\Debug\Management_Model.dll
+E:\百词斩项目\后台\Management\bin\Debug\Management_Bll.pdb
+E:\百词斩项目\后台\Management\bin\Debug\Management_Dal.pdb
+E:\百词斩项目\后台\Management\bin\Debug\Management_Helper.pdb
+E:\百词斩项目\后台\Management\bin\Debug\Management_Model.pdb
+E:\百词斩项目\后台\Management\obj\Debug\Management_UI.csprojResolveAssemblyReference.cache
+E:\百词斩项目\后台\Management\obj\Debug\Management.DCBType_Add.resources
+E:\百词斩项目\后台\Management\obj\Debug\Management.DCB_Add.resources
+E:\百词斩项目\后台\Management\obj\Debug\Management.DC_Add.resources
+E:\百词斩项目\后台\Management\obj\Debug\Management.Backup.resources
+E:\百词斩项目\后台\Management\obj\Debug\Management.Lecturerpwd_Alter.resources
+E:\百词斩项目\后台\Management\obj\Debug\Management.Lecturer_Add.resources
+E:\百词斩项目\后台\Management\obj\Debug\Management.Lecturer_Alter.resources
+E:\百词斩项目\后台\Management\obj\Debug\Management.Lecture_Management.resources
+E:\百词斩项目\后台\Management\obj\Debug\Management.LoginFrm.resources
+E:\百词斩项目\后台\Management\obj\Debug\Management.MainFrm.resources
+E:\百词斩项目\后台\Management\obj\Debug\Management.Properties.Resources.resources
+E:\百词斩项目\后台\Management\obj\Debug\Management.User_Add.resources
+E:\百词斩项目\后台\Management\obj\Debug\Management_UI.csproj.GenerateResource.Cache
+E:\百词斩项目\后台\Management\bin\Debug\Management.exe
+E:\百词斩项目\后台\Management\bin\Debug\Management.pdb
+E:\百词斩项目\后台\Management\obj\Debug\百词斩.dc.resources
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\bin\Debug\Management.exe.config
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management.exe
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management.pdb
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\bin\Debug\Management.exe
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\bin\Debug\Management.pdb
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\bin\Debug\Management_Bll.dll
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\bin\Debug\Management_Dal.dll
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\bin\Debug\Management_Helper.dll
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\bin\Debug\Management_Model.dll
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\bin\Debug\Management_Bll.pdb
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\bin\Debug\Management_Dal.pdb
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\bin\Debug\Management_Helper.pdb
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\bin\Debug\Management_Model.pdb
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management_UI.csprojResolveAssemblyReference.cache
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\百词斩.dc.resources
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management.DCBType_Add.resources
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management.DCB_Add.resources
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management.DC_Add.resources
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management.Backup.resources
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management.Lecturerpwd_Alter.resources
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management.Lecturer_Add.resources
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management.Lecturer_Alter.resources
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management.Lecture_Management.resources
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management.LoginFrm.resources
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management.MainFrm.resources
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management.Properties.Resources.resources
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management.User_Add.resources
+F:\C#\叶玉龙李丹玉百词斩\后台\Management\obj\Debug\Management_UI.csproj.GenerateResource.Cache
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\bin\Debug\Management.exe.config
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management.exe
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management.pdb
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\bin\Debug\Management.exe
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\bin\Debug\Management.pdb
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\bin\Debug\Management_Bll.dll
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\bin\Debug\Management_Dal.dll
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\bin\Debug\Management_Helper.dll
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\bin\Debug\Management_Model.dll
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\bin\Debug\Management_Bll.pdb
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\bin\Debug\Management_Dal.pdb
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\bin\Debug\Management_Helper.pdb
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\bin\Debug\Management_Model.pdb
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management_UI.csprojResolveAssemblyReference.cache
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\百词斩.dc.resources
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management.DCBType_Add.resources
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management.DCB_Add.resources
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management.DC_Add.resources
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management.Backup.resources
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management.Lecturerpwd_Alter.resources
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management.Lecturer_Add.resources
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management.Lecturer_Alter.resources
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management.Lecture_Management.resources
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management.LoginFrm.resources
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management.MainFrm.resources
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management.Properties.Resources.resources
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management.User_Add.resources
+F:\C#\叶玉龙李丹玉百词斩\Bcz\后台\Management\obj\Debug\Management_UI.csproj.GenerateResource.Cache
